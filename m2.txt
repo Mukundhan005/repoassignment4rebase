@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is 4423-0596
+
+ Directory of C:\Users\mukund-16128\Desktop\GITLEARN\Assesmentgit4rebase
+
+21-03-2023  11:52    <DIR>          .
+21-03-2023  11:52    <DIR>          ..
+21-03-2023  11:52               362 m1.txt
+21-03-2023  11:52                 0 m2.txt
+               2 File(s)            362 bytes
+               2 Dir(s)  54,340,734,976 bytes free
